@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Columbus Exercises.iml" filepath="$PROJECT_DIR$/Columbus Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColumbusExercise1/ColumbusExercise1.iml" filepath="$PROJECT_DIR$/ColumbusExercise1/ColumbusExercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColumbusExercise2/ColumbusExercise2.iml" filepath="$PROJECT_DIR$/ColumbusExercise2/ColumbusExercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColumbusExercise3/ColumbusExercise3.iml" filepath="$PROJECT_DIR$/ColumbusExercise3/ColumbusExercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColumbusExercise4/ColumbusExercise4.iml" filepath="$PROJECT_DIR$/ColumbusExercise4/ColumbusExercise4.iml" />
+    </modules>
+  </component>
+</project>
